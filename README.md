@@ -1,7 +1,7 @@
 ## Olá, eu sou a Rian! 👋
 
 🎓 Cursando Análise e Desenvolvimento de Sistemas - SENAC </br>
-🌟 Apaixonada por tecnologia, inovação e desafios!
+🌟 Apaixonado por tecnologia, inovação e desafios!
 
 ---
 
