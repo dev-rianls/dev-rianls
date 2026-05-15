@@ -23,7 +23,6 @@
 ## 🌐 Conecte-se comigo
 
 [![LinkedIn]](https://www.linkedin.com/in/devriansilva/)
-[![Email]](https://www.icloud.com/mail/dev.rian)
 
 ---
 
