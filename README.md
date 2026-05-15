@@ -27,6 +27,4 @@
 
 ---
 
-✨ Obrigada por visitar meu perfil!
-
-Visualizado por Júlia Dimas: 21:07.
+✨ Obrigado por visitar meu perfil!
