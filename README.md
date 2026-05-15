@@ -1,4 +1,4 @@
-## Olá, eu sou a Rian! 👋
+## Olá, eu sou o Rian! 👋
 
 🎓 Cursando Análise e Desenvolvimento de Sistemas - SENAC </br>
 🌟 Apaixonado por tecnologia, inovação e desafios!
